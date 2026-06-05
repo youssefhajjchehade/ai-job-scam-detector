@@ -1,0 +1,14 @@
+Suspicious example:
+
+We are hiring remote workers immediately. No experience needed.
+Earn $5000 per week from home. Training provided.
+Send your personal details and payment information to get started.
+Apply now, limited spots available.
+
+
+Normal example:
+
+Software Engineering Intern needed for a technology company.
+Responsibilities include building backend APIs, writing unit tests,
+working with Git, and collaborating with senior engineers.
+Applicants should know Python, JavaScript, and basic databases.

@@ -1,0 +1,10 @@
+-r requirements.txt
+
+# Notebook/training dependencies
+pandas
+scikit-learn
+matplotlib
+joblib
+jupyter
+notebook
+ipykernel

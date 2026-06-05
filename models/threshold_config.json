@@ -1,0 +1,5 @@
+{
+    "default_threshold": 0.5,
+    "high_risk_threshold": 0.9345390796661377,
+    "threshold_strategy": "default threshold for suspicious, best F1 threshold for high-risk classification"
+}
