@@ -11,9 +11,13 @@ license: mit
 ---
 ## Live Demo
 
-Try the app on Hugging Face Spaces:
+Try the deployed app here:
 
-[AI Job Scam Detector Live Demo](https://huggingface.co/spaces/Youssef-HC/ai-job-scam-detector)
+[AI Job Scam Detector on Hugging Face Spaces](https://huggingface.co/spaces/Youssef-HC/ai-job-scam-detector)
+
+Direct app link:
+
+[Open the app directly](https://youssef-hc-ai-job-scam-detector.hf.space)
 
 # JobShield AI — Keras NLP Job Scam Detector
 
