@@ -9,6 +9,11 @@ app_file: app.py
 pinned: false
 license: mit
 ---
+## Live Demo
+
+Try the app on Hugging Face Spaces:
+
+[AI Job Scam Detector Live Demo](https://huggingface.co/spaces/Youssef-HC/ai-job-scam-detector)
 
 # JobShield AI — Keras NLP Job Scam Detector
 
