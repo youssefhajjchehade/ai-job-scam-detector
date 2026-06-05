@@ -99,6 +99,15 @@ Normal job post:
   "warning_signs": []
 }
 ```
+## Demo Screenshots
+
+### High Risk Prediction
+
+![High Risk Result](screenshots/high-risk-result.png)
+
+### Low Risk Prediction
+
+![Low Risk Result](screenshots/low-risk-result.png)
 
 ## Included Model Artifacts
 
